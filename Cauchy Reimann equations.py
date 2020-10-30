@@ -23,5 +23,3 @@ if ur == simplify((1/r)*vt) and ut == simplify(-r*vr) :
     print("Function satisfies CR equations")
 else:
     print("Function does not satisfy CR equations")
-    
-print("18PEM22007")
