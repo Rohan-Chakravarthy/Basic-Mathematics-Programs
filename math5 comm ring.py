@@ -21,6 +21,5 @@ def mul_iden(set_, modulo):
             return iden
     print("The ring has no multiplicative identity")
     return None
-print("Rohan")
 comm([0,2,4],6)
 mul_iden([0,2,4],6)
